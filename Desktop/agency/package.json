@@ -1,7 +1,8 @@
 {
-  "name": "my-project",
+  "name": "nexus-digital-agency",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://noman-aslam02.github.io/nexus-digital-agency",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

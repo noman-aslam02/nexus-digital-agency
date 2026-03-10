@@ -6,6 +6,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  basePath: '/nexus-digital-agency',
+  assetPrefix: '/nexus-digital-agency/',
 }
 
 export default nextConfig
